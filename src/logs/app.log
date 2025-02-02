@@ -1,0 +1,437 @@
+2025-02-01 19:13:47,807 - INFO - Application started.
+2025-02-01 19:13:47,807 - ERROR - Something went wrong!
+2025-02-01 19:13:47,808 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\..\scripts\groq_llm.py", line 10, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-01 19:13:47,938 - INFO - Loading faiss with AVX2 support.
+2025-02-01 19:13:47,960 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-01 19:13:47,967 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-01 19:13:53,305 - INFO - Use pytorch device_name: cpu
+2025-02-01 19:13:53,305 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-01 19:13:57,295 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-01 19:17:40,100 - INFO - Application started.
+2025-02-01 19:17:40,100 - ERROR - Something went wrong!
+2025-02-01 19:17:40,100 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\..\scripts\groq_llm.py", line 10, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-01 19:17:40,217 - INFO - Loading faiss with AVX2 support.
+2025-02-01 19:17:40,240 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-01 19:17:40,250 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-01 19:17:44,740 - INFO - Use pytorch device_name: cpu
+2025-02-01 19:17:44,741 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-01 19:17:48,306 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 14:56:34,533 - INFO - Application started.
+2025-02-02 14:56:34,535 - ERROR - Something went wrong!
+2025-02-02 14:56:34,535 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\..\scripts\groq_llm.py", line 10, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 14:56:34,863 - INFO - Loading faiss with AVX2 support.
+2025-02-02 14:56:34,966 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 14:56:34,977 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 14:56:47,979 - INFO - Use pytorch device_name: cpu
+2025-02-02 14:56:47,979 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-02 14:56:52,479 - INFO - Use pytorch device_name: cpu
+2025-02-02 14:56:52,479 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-02 14:56:56,079 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 14:56:56,082 - INFO - Loading PDFs from E:\crewai-Rag\src\ui\..\models\../data/
+2025-02-02 14:56:56,082 - INFO - Processing The_GALE_ENCYCLOPEDIA_of_MEDICINE_SECOND (1).pdf
+2025-02-02 16:12:48,290 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 16:12:48,483 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 16:12:56,391 - INFO - Application started.
+2025-02-02 16:12:56,391 - ERROR - Something went wrong!
+2025-02-02 16:12:56,391 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\..\scripts\groq_llm.py", line 10, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 16:12:57,026 - INFO - Loading faiss with AVX2 support.
+2025-02-02 16:12:57,311 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 16:12:57,318 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 16:13:23,291 - INFO - Use pytorch device_name: cpu
+2025-02-02 16:13:23,291 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-02 16:13:30,287 - INFO - Use pytorch device_name: cpu
+2025-02-02 16:13:30,287 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-02 16:13:33,292 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 16:13:33,292 - INFO - Loading PDFs from E:\crewai-Rag\src\ui\..\models\../data/
+2025-02-02 16:13:33,292 - INFO - Processing The_GALE_ENCYCLOPEDIA_of_MEDICINE_SECOND (1).pdf
+2025-02-02 16:33:06,049 - INFO - Application started.
+2025-02-02 16:33:06,049 - ERROR - Something went wrong!
+2025-02-02 16:33:06,049 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\..\scripts\groq_llm.py", line 10, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 16:33:06,177 - INFO - Loading faiss with AVX2 support.
+2025-02-02 16:33:06,202 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 16:33:06,208 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 16:33:12,151 - INFO - Use pytorch device_name: cpu
+2025-02-02 16:33:12,152 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-02 16:33:16,167 - INFO - Use pytorch device_name: cpu
+2025-02-02 16:33:16,167 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-02 16:33:19,440 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 16:33:19,441 - INFO - Loading PDFs from E:\crewai-Rag\src\ui\..\models\../data/
+2025-02-02 16:33:19,441 - INFO - Processing The_GALE_ENCYCLOPEDIA_of_MEDICINE_SECOND (1).pdf
+2025-02-02 16:37:50,288 - ERROR - \u274c API Request Failed: 404, {"error":{"message":"Unknown request URL: POST /v1/chat/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-02 16:37:50,294 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 16:55:08,141 - INFO - Application started.
+2025-02-02 16:55:08,141 - ERROR - Something went wrong!
+2025-02-02 16:55:08,141 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\scripts\groq_llm.py", line 18, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 17:05:06,315 - INFO - Application started.
+2025-02-02 17:05:06,315 - ERROR - Something went wrong!
+2025-02-02 17:05:06,315 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\..\scripts\groq_llm.py", line 18, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 17:05:06,391 - INFO - Loading faiss with AVX2 support.
+2025-02-02 17:05:06,405 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 17:05:06,409 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 17:05:07,048 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:05:10,482 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 17:05:11,421 - INFO - Use pytorch device_name: cpu
+2025-02-02 17:05:11,421 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 17:10:28,983 - INFO - Application started.
+2025-02-02 17:10:28,984 - ERROR - Something went wrong!
+2025-02-02 17:10:28,984 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\..\scripts\groq_llm.py", line 18, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 17:10:29,085 - INFO - Loading faiss with AVX2 support.
+2025-02-02 17:10:29,102 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 17:10:29,107 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 17:10:29,751 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:10:33,386 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 17:10:33,976 - INFO - Use pytorch device_name: cpu
+2025-02-02 17:10:33,976 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 17:12:09,242 - INFO - Application started.
+2025-02-02 17:12:09,242 - ERROR - Something went wrong!
+2025-02-02 17:12:09,242 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\..\scripts\groq_llm.py", line 18, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 17:12:09,321 - INFO - Loading faiss with AVX2 support.
+2025-02-02 17:12:09,336 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 17:12:09,341 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 17:12:09,973 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:12:13,312 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 17:12:13,883 - INFO - Use pytorch device_name: cpu
+2025-02-02 17:12:13,884 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 17:16:09,793 - INFO - Application started.
+2025-02-02 17:16:09,793 - ERROR - Something went wrong!
+2025-02-02 17:16:09,793 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\..\scripts\groq_llm.py", line 18, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 17:16:09,998 - INFO - Loading faiss with AVX2 support.
+2025-02-02 17:16:10,030 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 17:16:10,040 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 17:16:11,639 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:16:15,602 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 17:16:16,197 - INFO - Use pytorch device_name: cpu
+2025-02-02 17:16:16,197 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 17:18:21,395 - INFO - Application started.
+2025-02-02 17:18:21,395 - ERROR - Something went wrong!
+2025-02-02 17:18:21,395 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\..\scripts\groq_llm.py", line 18, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 17:18:21,513 - INFO - Loading faiss with AVX2 support.
+2025-02-02 17:18:21,530 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 17:18:21,534 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 17:18:22,337 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:18:25,500 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 17:18:26,531 - INFO - Use pytorch device_name: cpu
+2025-02-02 17:18:26,559 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 17:20:50,636 - INFO - FAISS index built successfully.
+2025-02-02 17:26:14,401 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:26:27,943 - INFO - Application started.
+2025-02-02 17:26:27,943 - ERROR - Something went wrong!
+2025-02-02 17:26:27,943 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\scripts\groq_llm.py", line 18, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 17:26:28,035 - INFO - Loading faiss with AVX2 support.
+2025-02-02 17:26:28,052 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 17:26:28,056 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 17:26:28,859 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:26:32,688 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 17:26:33,292 - INFO - Use pytorch device_name: cpu
+2025-02-02 17:26:33,292 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 17:28:36,740 - INFO - FAISS index built successfully.
+2025-02-02 17:32:51,029 - ERROR - \u274c API Request Failed: 404, {"error":{"message":"Unknown request URL: POST /v1/chat/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-02 17:32:51,035 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:32:51,160 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:33:10,421 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:34:14,467 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:34:22,124 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:34:22,126 - INFO - User query received: what is cancer
+2025-02-02 17:34:22,160 - INFO - Context retrieved: ['blood and lymph node cancer (leukemias and lym-\nphomas) are also included among the 12 major cancers\nthat affect most Americans.\nGALE ENCYCLOPEDIA OF MEDICINE 2\n631\nCancer\n Cancer, by definition, is a disease of the genes. A\ngene is a small part of DNA, which is the master mole-\ncule of the cell. Genes make �proteins,� which are the\nultimate workhorses of the cells. It is these proteins that\nallow our bodies to carry out all the many processes that\npermit us to breathe, think, move, etc.', 'ing the body�s immune defense system.\nMalignant�A general term for cells that can dis-\nlodge from the original tumor, invade and destroy\nother tissues and organs.\nMetastasis�The spread of cancer from one part of\nthe body to another.\nRadiation therapy�Treatment using high-energy\nradiation from x-ray machines, cobalt, radium, or\nother sources.\nSore�An open wound or a bruise or lesion on the\nskin.\nTumor�An abnormal growth resulting from a cell\nthat lost its normal growth control restraints and', 'pigment cells (melanocytes).\n� Sarcomas are cancers of the supporting tissues of the\nbody, such as bone, muscle and blood vessels.\n� Cancers of the blood and lymph glands are called\nleukemias and lymphomas respectively.\n� Gliomas are cancers of the nerve tissue.\nCauses and symptoms\nThe major risk factors for cancer are: tobacco, alco-\nhol, diet, sexual and reproductive behavior, infectious\nagents, family history, occupation, environment and pol-\nlution.']
+2025-02-02 17:34:23,058 - ERROR - \u274c API Request Failed: 404, {"error":{"message":"Unknown request URL: POST /v1/chat/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-02 17:34:23,059 - INFO - Response generated: Error: 404, {"error":{"message":"Unknown request URL: POST /v1/chat/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-02 17:37:00,866 - INFO - Application started.
+2025-02-02 17:37:00,866 - ERROR - Something went wrong!
+2025-02-02 17:37:00,866 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\scripts\groq_llm.py", line 18, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 17:37:00,944 - INFO - Loading faiss with AVX2 support.
+2025-02-02 17:37:00,960 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 17:37:00,964 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 17:37:01,775 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:37:04,964 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 17:37:05,889 - INFO - Use pytorch device_name: cpu
+2025-02-02 17:37:05,890 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 17:39:35,756 - INFO - FAISS index built successfully.
+2025-02-02 17:40:28,663 - ERROR - \u274c API Request Failed: 404, {"error":{"message":"Unknown request URL: POST /v1/chat/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-02 17:40:28,680 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:40:28,682 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:40:45,105 - INFO - \u2705 GroqLLM initialized with model: mixtral
+2025-02-02 17:40:45,106 - INFO - User query received: cancer
+2025-02-02 17:40:45,148 - INFO - Context retrieved: ['ing the body�s immune defense system.\nMalignant�A general term for cells that can dis-\nlodge from the original tumor, invade and destroy\nother tissues and organs.\nMetastasis�The spread of cancer from one part of\nthe body to another.\nRadiation therapy�Treatment using high-energy\nradiation from x-ray machines, cobalt, radium, or\nother sources.\nSore�An open wound or a bruise or lesion on the\nskin.\nTumor�An abnormal growth resulting from a cell\nthat lost its normal growth control restraints and', 'blood and lymph node cancer (leukemias and lym-\nphomas) are also included among the 12 major cancers\nthat affect most Americans.\nGALE ENCYCLOPEDIA OF MEDICINE 2\n631\nCancer\n Cancer, by definition, is a disease of the genes. A\ngene is a small part of DNA, which is the master mole-\ncule of the cell. Genes make �proteins,� which are the\nultimate workhorses of the cells. It is these proteins that\nallow our bodies to carry out all the many processes that\npermit us to breathe, think, move, etc.', 'pigment cells (melanocytes).\n� Sarcomas are cancers of the supporting tissues of the\nbody, such as bone, muscle and blood vessels.\n� Cancers of the blood and lymph glands are called\nleukemias and lymphomas respectively.\n� Gliomas are cancers of the nerve tissue.\nCauses and symptoms\nThe major risk factors for cancer are: tobacco, alco-\nhol, diet, sexual and reproductive behavior, infectious\nagents, family history, occupation, environment and pol-\nlution.']
+2025-02-02 17:40:45,694 - ERROR - \u274c API Request Failed: 404, {"error":{"message":"Unknown request URL: POST /v1/chat/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-02 17:40:45,694 - INFO - Response generated: Error: 404, {"error":{"message":"Unknown request URL: POST /v1/chat/completions. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-02 17:49:56,690 - INFO - Application started.
+2025-02-02 17:49:56,690 - ERROR - Something went wrong!
+2025-02-02 17:49:56,690 - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\scripts\groq_llm.py", line 16, in <module>
+    1 / 0  # Example error
+    ~~^~~
+ZeroDivisionError: division by zero
+2025-02-02 17:49:56,771 - INFO - Loading faiss with AVX2 support.
+2025-02-02 17:49:56,787 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 17:49:56,791 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 17:49:57,925 - INFO - \u2705 GroqLLM initialized with model: your-model-name
+2025-02-02 17:50:02,537 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 17:50:03,914 - INFO - Use pytorch device_name: cpu
+2025-02-02 17:50:03,914 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 17:52:05,736 - INFO - FAISS index built successfully.
+2025-02-02 17:52:24,025 - ERROR - \u274c API Request Failed: 404, {"error":{"message":"Unknown request URL: POST /v1/open-source-model. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-02 17:52:24,030 - INFO - \u2705 GroqLLM initialized with model: your-model-name
+2025-02-02 17:52:35,769 - INFO - \u2705 GroqLLM initialized with model: your-model-name
+2025-02-02 17:52:35,770 - INFO - User query received: cancer
+2025-02-02 17:52:35,788 - INFO - Context retrieved: ['ing the body�s immune defense system.\nMalignant�A general term for cells that can dis-\nlodge from the original tumor, invade and destroy\nother tissues and organs.\nMetastasis�The spread of cancer from one part of\nthe body to another.\nRadiation therapy�Treatment using high-energy\nradiation from x-ray machines, cobalt, radium, or\nother sources.\nSore�An open wound or a bruise or lesion on the\nskin.\nTumor�An abnormal growth resulting from a cell\nthat lost its normal growth control restraints and', 'blood and lymph node cancer (leukemias and lym-\nphomas) are also included among the 12 major cancers\nthat affect most Americans.\nGALE ENCYCLOPEDIA OF MEDICINE 2\n631\nCancer\n Cancer, by definition, is a disease of the genes. A\ngene is a small part of DNA, which is the master mole-\ncule of the cell. Genes make �proteins,� which are the\nultimate workhorses of the cells. It is these proteins that\nallow our bodies to carry out all the many processes that\npermit us to breathe, think, move, etc.', 'pigment cells (melanocytes).\n� Sarcomas are cancers of the supporting tissues of the\nbody, such as bone, muscle and blood vessels.\n� Cancers of the blood and lymph glands are called\nleukemias and lymphomas respectively.\n� Gliomas are cancers of the nerve tissue.\nCauses and symptoms\nThe major risk factors for cancer are: tobacco, alco-\nhol, diet, sexual and reproductive behavior, infectious\nagents, family history, occupation, environment and pol-\nlution.']
+2025-02-02 17:52:36,380 - ERROR - \u274c API Request Failed: 404, {"error":{"message":"Unknown request URL: POST /v1/open-source-model. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-02 17:52:36,381 - INFO - Response generated: Error: 404, {"error":{"message":"Unknown request URL: POST /v1/open-source-model. Please check the URL for typos, or see the docs at https://console.groq.com/docs/","type":"invalid_request_error","code":"unknown_url"}}
+
+2025-02-02 17:56:26,061 - INFO - Loading faiss with AVX2 support.
+2025-02-02 17:56:26,077 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 17:56:26,082 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 17:56:27,114 - ERROR - GROQ_API_KEY is missing. Set it in the environment variables.
+2025-02-02 17:56:27,114 - ERROR - Initialization failed: GROQ_API_KEY is missing.
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\scripts\groq_llm.py", line 15, in __init__
+    raise ValueError("GROQ_API_KEY is missing.")
+ValueError: GROQ_API_KEY is missing.
+2025-02-02 17:58:06,608 - INFO - Loading faiss with AVX2 support.
+2025-02-02 17:58:06,625 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 17:58:06,630 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 17:58:07,573 - INFO - GroqLLM initialized with model: Gemma2-9B-IT
+2025-02-02 17:58:10,848 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 17:58:11,969 - INFO - Use pytorch device_name: cpu
+2025-02-02 17:58:11,969 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 18:00:17,737 - INFO - FAISS index built successful2025-02-02 19:10:25,053 - INFO - Loading faiss with AVX2 support.
+2025-02-02 19:10:25,082 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 19:10:25,090 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 19:10:26,598 - INFO - Initializing HuggingFace LLM
+2025-02-02 19:10:26,598 - INFO - HuggingFaceLLM initialized with model: google/gemma-7b
+2025-02-02 19:10:26,599 - INFO - Initializing Knowledge Base
+2025-02-02 19:10:33,479 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 19:10:35,159 - INFO - Use pytorch device_name: cpu
+2025-02-02 19:10:35,159 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:10:51,842 - INFO - Processing query: what is cancer
+2025-02-02 19:10:51,845 - ERROR - FAISS index is not initialized.
+2025-02-02 19:11:58,305 - ERROR - API request failed: 500, {"error": "Model too busy, unable to get response in less than 60 second(s)"}
+2025-02-02 19:12:21,741 - INFO - Processing query: what is cancer please explain it
+2025-02-02 19:12:21,742 - ERROR - FAISS index is not initialized.
+2025-02-02 19:27:01,875 - INFO - Loading faiss with AVX2 support.
+2025-02-02 19:27:01,901 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 19:27:01,908 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 19:32:43,614 - INFO - Loading faiss with AVX2 support.
+2025-02-02 19:32:43,639 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 19:32:43,646 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 19:32:44,961 - INFO - Initializing HuggingFace LLM
+2025-02-02 19:32:44,962 - INFO - HuggingFaceLLM initialized with model: google/gemma-7b
+2025-02-02 19:32:44,962 - INFO - Initializing Knowledge Base
+2025-02-02 19:32:50,525 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 19:32:52,126 - INFO - Use pytorch device_name: cpu
+2025-02-02 19:32:52,126 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:32:56,136 - INFO - FAISSKnowledgeBase initialized with model: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:32:56,137 - INFO - FAISS index and texts loaded successfully
+2025-02-02 19:33:15,700 - INFO - Processing query: what is cancer please explain it
+2025-02-02 19:35:32,943 - INFO - Loading faiss with AVX2 support.
+2025-02-02 19:35:32,961 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 19:35:32,968 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 19:36:15,750 - INFO - Loading faiss with AVX2 support.
+2025-02-02 19:36:15,775 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 19:36:15,781 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 19:36:17,117 - INFO - Initializing HuggingFace LLM
+2025-02-02 19:36:17,117 - INFO - HuggingFaceLLM initialized with model: google/gemma-7b
+2025-02-02 19:36:17,117 - INFO - Initializing Knowledge Base
+2025-02-02 19:36:23,029 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 19:36:24,504 - INFO - Use pytorch device_name: cpu
+2025-02-02 19:36:24,504 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:36:39,178 - INFO - FAISSKnowledgeBase initialized with model: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:36:39,179 - INFO - FAISS index and texts loaded successfully
+2025-02-02 19:36:57,011 - INFO - Processing query: what is cancer please explain it
+2025-02-02 19:36:57,096 - ERROR - Application error
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\app.py", line 201, in main
+    response = llm.generate_response(prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HuggingFaceLLM.generate_response() missing 1 required positional argument: 'query'
+2025-02-02 19:37:57,685 - INFO - Loading faiss with AVX2 support.
+2025-02-02 19:37:57,707 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 19:37:57,714 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 19:37:59,029 - INFO - Initializing HuggingFace LLM
+2025-02-02 19:37:59,029 - INFO - HuggingFaceLLM initialized with model: google/gemma-7b
+2025-02-02 19:37:59,030 - INFO - Initializing Knowledge Base
+2025-02-02 19:38:04,275 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 19:38:05,622 - INFO - Use pytorch device_name: cpu
+2025-02-02 19:38:05,622 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:38:09,776 - INFO - FAISSKnowledgeBase initialized with model: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:38:09,777 - INFO - FAISS index and texts loaded successfully
+2025-02-02 19:38:49,261 - INFO - Processing query: explain  blood cancer and suggest medicine
+2025-02-02 19:38:49,451 - ERROR - Application error
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\app.py", line 201, in main
+    response = llm.generate_response(prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HuggingFaceLLM.generate_response() missing 1 required positional argument: 'query'
+2025-02-02 19:41:59,863 - INFO - Loading faiss with AVX2 support.
+2025-02-02 19:41:59,884 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 19:41:59,890 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 19:42:01,178 - INFO - Initializing HuggingFace LLM
+2025-02-02 19:42:01,178 - INFO - HuggingFaceLLM initialized with model: google/gemma-7b
+2025-02-02 19:42:01,178 - INFO - Initializing Knowledge Base
+2025-02-02 19:42:06,783 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 19:42:08,272 - INFO - Use pytorch device_name: cpu
+2025-02-02 19:42:08,272 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:42:12,152 - INFO - FAISSKnowledgeBase initialized with model: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:42:12,152 - INFO - FAISS index and texts loaded successfully
+2025-02-02 19:42:25,321 - INFO - Processing query: explain  blood cancer and suggest medicine
+2025-02-02 19:43:05,685 - INFO - Processing query: explain  blood cancer and suggest medicine
+2025-02-02 19:43:05,744 - ERROR - Application error
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\app.py", line 320, in main
+    response = llm.generate_response(prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HuggingFaceLLM.generate_response() missing 1 required positional argument: 'query'
+2025-02-02 19:43:14,322 - INFO - Initializing HuggingFace LLM
+2025-02-02 19:43:14,322 - INFO - HuggingFaceLLM initialized with model: google/gemma-7b
+2025-02-02 19:43:14,323 - INFO - Initializing Knowledge Base
+2025-02-02 19:43:14,332 - INFO - Use pytorch device_name: cpu
+2025-02-02 19:43:14,332 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:43:17,590 - INFO - FAISSKnowledgeBase initialized with model: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:43:17,591 - INFO - FAISS index and texts loaded successfully
+2025-02-02 19:43:26,818 - INFO - Processing query: explain  blood cancer and suggest medicine
+2025-02-02 19:43:27,107 - ERROR - Application error
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\app.py", line 320, in main
+    response = llm.generate_response(prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HuggingFaceLLM.generate_response() missing 1 required positional argument: 'query'
+2025-02-02 19:44:33,543 - INFO - Loading faiss with AVX2 support.
+2025-02-02 19:44:33,568 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 19:44:33,576 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 19:44:34,920 - INFO - Initializing HuggingFace LLM
+2025-02-02 19:44:34,920 - INFO - HuggingFaceLLM initialized with model: google/gemma-7b
+2025-02-02 19:44:34,921 - INFO - Initializing Knowledge Base
+2025-02-02 19:44:40,928 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 19:44:42,492 - INFO - Use pytorch device_name: cpu
+2025-02-02 19:44:42,493 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:44:47,390 - INFO - FAISSKnowledgeBase initialized with model: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:44:47,391 - INFO - FAISS index and texts loaded successfully
+2025-02-02 19:44:55,148 - INFO - Processing query: explain  blood cancer and suggest medicine
+2025-02-02 19:44:55,275 - ERROR - Application error
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\app.py", line 320, in main
+    response = llm.generate_response(prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HuggingFaceLLM.generate_response() missing 1 required positional argument: 'query'
+2025-02-02 19:48:57,352 - INFO - Loading faiss with AVX2 support.
+2025-02-02 19:48:57,374 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 19:48:57,382 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 19:48:58,699 - INFO - Initializing HuggingFace LLM
+2025-02-02 19:48:58,699 - INFO - HuggingFaceLLM initialized with model: google/gemma-7b
+2025-02-02 19:48:58,699 - INFO - Initializing Knowledge Base
+2025-02-02 19:49:04,822 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 19:49:06,367 - INFO - Use pytorch device_name: cpu
+2025-02-02 19:49:06,368 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:49:10,661 - INFO - FAISSKnowledgeBase initialized with model: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:49:10,661 - INFO - FAISS index and texts loaded successfully
+2025-02-02 19:49:18,318 - INFO - Processing query: explain  blood cancer and suggest medicine
+2025-02-02 19:49:18,392 - ERROR - Application error
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\app.py", line 320, in main
+    response = llm.generate_response(prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HuggingFaceLLM.generate_response() missing 1 required positional argument: 'query'
+2025-02-02 19:49:47,014 - INFO - Loading faiss with AVX2 support.
+2025-02-02 19:49:47,036 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 19:49:47,043 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 19:49:48,373 - INFO - Initializing HuggingFace LLM
+2025-02-02 19:49:48,373 - INFO - HuggingFaceLLM initialized with model: google/gemma-7b
+2025-02-02 19:49:48,374 - INFO - Initializing Knowledge Base
+2025-02-02 19:49:54,407 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 19:49:55,978 - INFO - Use pytorch device_name: cpu
+2025-02-02 19:49:55,978 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:49:59,711 - INFO - FAISSKnowledgeBase initialized with model: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:49:59,712 - INFO - FAISS index and texts loaded successfully
+2025-02-02 19:50:07,870 - INFO - Processing query: explain  blood cancer and suggest medicine
+2025-02-02 19:50:08,438 - ERROR - Application error
+Traceback (most recent call last):
+  File "E:\crewai-Rag\src\ui\app.py", line 320, in main
+    response = llm.generate_response(prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: HuggingFaceLLM.generate_response() missing 1 required positional argument: 'query'
+2025-02-02 19:57:33,903 - INFO - Loading faiss with AVX2 support.
+2025-02-02 19:57:33,925 - INFO - Successfully loaded faiss with AVX2 support.
+2025-02-02 19:57:33,932 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-02 19:57:35,293 - INFO - Initializing HuggingFace LLM
+2025-02-02 19:57:35,293 - INFO - HuggingFaceLLM initialized with model: google/gemma-7b
+2025-02-02 19:57:35,295 - INFO - Initializing Knowledge Base
+2025-02-02 19:57:41,189 - INFO - PyTorch version 2.6.0 available.
+2025-02-02 19:57:42,838 - INFO - Use pytorch device_name: cpu
+2025-02-02 19:57:42,838 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:57:46,965 - INFO - FAISSKnowledgeBase initialized with model: sentence-transformers/all-MiniLM-L6-v2
+2025-02-02 19:57:46,966 - INFO - FAISS index and texts loaded successfully
+2025-02-02 19:57:55,711 - INFO - Processing query: explain  blood cancer and suggest medicine

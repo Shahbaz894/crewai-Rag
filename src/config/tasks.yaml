@@ -1,0 +1,48 @@
+# src/latest_ai_development/config/tasks.yaml
+medical_research_task:
+  description: >
+    Conduct a detailed medical research about {medical_condition}.
+    Gather the latest and most relevant information from trusted sources.
+    Ensure the information is evidence-based and accurate for the year 2024.
+    The research should include causes, symptoms, diagnosis, treatment options, 
+    and recent advancements in medical studies.
+
+  expected_output: >
+    A structured list with 10 key insights on {medical_condition}, covering:
+    - Causes
+    - Symptoms
+    - Diagnosis methods
+    - Available treatments
+    - New medical research findings
+    - Prevention strategies
+    - Case studies or real-world applications
+    - Related risk factors
+    - Recommended lifestyle changes
+    - Any new pharmaceutical or alternative medicine options
+
+  agent: medical_researcher
+
+medical_report_task:
+  description: >
+    Review the collected research and expand each key point into a detailed medical report.
+    The report should be structured into sections with detailed explanations.
+    Ensure clarity, accuracy, and use of simple language for non-medical readers.
+    Information should be based on the latest medical guidelines and expert recommendations.
+
+  expected_output: >
+    A complete, well-structured medical report covering:
+    - Introduction to {medical_condition}
+    - Causes and Risk Factors
+    - Symptoms and Early Warning Signs
+    - Diagnostic Tests and Procedures
+    - Standard and Emerging Treatment Methods
+    - Prevention and Lifestyle Recommendations
+    - Real-world Case Studies and Success Stories
+    - Recent Research Findings (2023-2024)
+    - References to scientific sources and publications
+    
+    The report should be formatted in markdown without enclosing '```'.
+
+  agent: medical_analyst
+  output_file: medical_report.md
+

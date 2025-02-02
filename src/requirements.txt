@@ -1,0 +1,1 @@
+pip install groq pymupdf faiss-cpu sentence-transformers numpy pyyaml requests beautifulsoup4 streamlit
