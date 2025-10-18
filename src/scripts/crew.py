@@ -27,4 +27,7 @@ medical_analyst = Agent(**agents_config["medical_analyst"])
 research_task = Task(**tasks_config["research_task"])
 reporting_task = Task(**tasks_config["reporting_task"])
 
-crew =Crew(agents=[medical_researcher,medical_analyst],tasks=[research_task,reporting_task])
+crew =Crew(agents=[medical_researcher,medical_analyst],tasks=[research_task,reporting_task]
+           
+           
+           )
